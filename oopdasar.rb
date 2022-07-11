@@ -17,3 +17,6 @@ end
 #bikin objek dari kelas
 orang = Orang.new(21)
 orang.ambilUmur()
+
+orang = Orang.new(42)
+orang.ambilUmur()
