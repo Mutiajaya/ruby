@@ -22,7 +22,6 @@ end
 #inheritance
 
 class Bapak < Orang #walaupun kosong tapi sudah mewariskan dari orang
-
     def sifat 
         puts "Punya Kumis"
     end
