@@ -5,11 +5,11 @@ class Orang
     
     #init method
     def initialize
-        puts "masuk ke initialize"
+        @umur = 27
     end
 
     def ambilUmur
-        puts "Umurnya :"
+        puts "Umurnya : #{@umur}"
     end
     
 end
