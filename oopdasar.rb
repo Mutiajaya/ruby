@@ -4,8 +4,8 @@
 class Orang
     
     #init method
-    def initialize
-        @umur = 27
+    def initialize(x)
+        @umur = x
     end
 
     def ambilUmur
@@ -15,5 +15,5 @@ class Orang
 end
 
 #bikin objek dari kelas
-orang = Orang.new
+orang = Orang.new(21)
 orang.ambilUmur()
