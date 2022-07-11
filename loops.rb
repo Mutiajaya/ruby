@@ -19,3 +19,10 @@ for angka in (0..5)
     puts "Nilai angka : #{angka}"
 
 end
+
+#contohforin
+
+bahasa = ["html", "css", "js"]
+for b in bahasa
+    puts "nilai bahasa : #{b}"
+end
