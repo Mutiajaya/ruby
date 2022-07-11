@@ -3,6 +3,11 @@
 
 class Orang
     
+    #init method
+    def initialize
+        puts "masuk ke initialize"
+    end
+
     def ambilUmur
         puts "Umurnya :"
     end
