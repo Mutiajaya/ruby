@@ -1,4 +1,4 @@
-#fungsi
+#method
 
 def pop()
     x = 2
